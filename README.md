@@ -2,8 +2,6 @@
 <h3 align="center">A passionate fullstack, blockchain developer also cyber security enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Block Chain and Cyber Security**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
